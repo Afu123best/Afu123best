@@ -42,9 +42,9 @@ Small projects exploring workflow automation, API integrations, data handling, a
 
 ## Connect
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: `https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/`
-- Email: `your-email@example.com`
+- GitHub: [@Afu123best](https://github.com/Afu123best)
+- LinkedIn: `https://www.linkedin.com/in/afnan-majeed-868275218/`
+- Email: `afnanmajeedwork@gmail.com`
 
 ---
 
